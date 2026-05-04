@@ -1,152 +1,106 @@
-<!-- 
-  PROJECT: SUPREME 3D COMMAND CENTER
-  ARCHITECT: OPK NAIM (@opknaim)
-  IDENTITY: ELITE MUSLIM ENGINEER
-  THEME: KINETIC CYBER-GOLD
-  LOGIC: 100X AUTOMATION MULTIPLIER
--->
+# 🌌 Welcome to the Universe of OPK NAIM 🌌
+### 🚀 Professional Telegram Bot Designer & Senior Builder
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&secondaryColor=FFD700&height=300&section=header&text=%EF%B7%BD&fontSize=150&fontAlignY=35&animation=twinkling" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=900&size=45&pause=1000&color=FFD700&center=true&vCenter=true&width=1000&lines=BISMILLAHIR+RAHMANIR+RAHIM;OPK+NAIM:+THE+AUTOMATION+ARCHITECT;100X+EFFICIENCY+ENGINEERING;VIP+FULL-STACK+ECOSYSTEMS;@OPKNAIM:+DOMINATING+THE+STACK" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=opknaim1&label=ARCHITECT%20VISITS&color=FFD700&style=flat-square" alt="Views" />
-  </p>
-</div>
-
-<br/>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center">
-        <h1 style="letter-spacing: 12px; text-transform: uppercase;">✨ <b>E L I T E  |  C O M M A N D</b> ✨</h1>
-        <p align="center"><b>"The Convergence of Divine Values and Infinite Scalability"</b></p>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://t.me/opknaim">
-    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL_100X-FFD700?style=for-the-badge&logo=rocket&logoColor=black" />
-  </a>
-  <a href="mailto:opknaim@gmail.com">
-    <img src="https://img.shields.io/badge/ACCESS-VIP_ENCRYPTED-FFD700?style=for-the-badge&logo=lock&logoColor=black" />
-  </a>
-  <a href="#-social-media-matrix">
-    <img src="https://img.shields.io/badge/NETWORK-GLOBAL_REACH-FFD700?style=for-the-badge&logo=rss&logoColor=black" />
-  </a>
-</div>
-
-<br/>
-
----
-
-### 🕋 **The Architect’s Vision**
-<p align="justify">
-  I am <b>Opk Naim</b>, a specialized <b>Automation Architect</b> and <b>Full-Stack Engineer</b>. My existence in the digital realm is defined by the pursuit of <i>Ihsan</i>—achieving the highest level of excellence. I don't just solve problems; I eliminate them through <b>Autonomous Logic</b>. 
-  <br/><br/>
-  Every system I architect is built on a <b>100x Multiplier Philosophy</b>: A single core engine designed by my hands is engineered to perform the task of a hundred manual systems. This is the <b>Gold Standard</b> of modern development. No compromises. No inefficiency. Only pure, high-performance code.
+<p align="center">
+  <img src="https://raw.githubusercontent.com/m-p-3/m-p-3/main/assets/line_sc.gif" width="100%">
 </p>
 
 ---
 
-### ⚡ **Phase 1: Kinetic Tech Arsenal (Moving Stack)**
-<p align="center"><i>My tools are in a state of constant evolution, optimized for peak performance.</i></p>
+## 💫 About Me
+I am **OPK NAIM**, a passionate developer specializing in creating high-performance, scalable, and intelligent **Telegram Bots**. I don't just write code; I build automated ecosystems that help businesses grow and communities thrive. With a focus on **User Experience (UX)** and **3D-grade logic**, I ensure my bots are both powerful and beautiful.
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=py,nodejs,js,ts,mongodb,redis,docker,kubernetes,github,tailwind,react,nextjs,mysql,php,cpp,java,linux,aws,firebase,postman,figma,git,nginx,pytorch,tensorflow,visualstudio,wordpress,vite,webpack,express,electron&perline=11" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=opknaim1&layout=compact&theme=vision-friendly-dark&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=FFD700" width="100%" />
-</div>
+- ⚡ **Speed:** Lightning-fast response times.
+- 🛡️ **Security:** Military-grade encryption and data safety.
+- 🎨 **Design:** Minimalist yet futuristic UI/UX for bots.
 
 ---
 
-### 📈 **Phase 2: Live Performance Metrics**
-<p align="center"><i>Tracking real-time algorithmic efficiency and repository growth.</i></p>
+## 🛠️ Specialized Services (What I Offer)
+*Transforming your ideas into automated reality.*
 
-<div align="center">
-  <table border="0" width="100%">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=opknaim1&show_icons=true&theme=vision-friendly-dark&title_color=FFD700&icon_color=FFD700&text_color=ffffff&bg_color=0d1117&hide_border=false&border_color=FFD700&rank_icon=github" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=opknaim1&theme=tokyonight&fire=FFD700&currStreakNum=ffffff&sideNums=FFD700&sideLabels=FFD700&hide_border=false&border_color=FFD700&background=0d1117" width="100%" />
-      </td>
-    </tr>
-  </table>
-</div>
+### 🤖 1. Custom AI Integration
+- ChatGPT/GPT-4o integration for smart conversations.
+- Image generation and voice-to-text bots.
 
-<br/>
+### 💰 2. E-Commerce & Payment Bots
+- Fully automated digital shops.
+- Integration with **Crypto, bKash, Rocket, Nagad, and PayPal**.
+- Automatic product delivery after payment.
 
-<div align="center">
-  <img src="https://res.cloudinary.com/dt26z13v4/image/upload/v1715012345/Advanced_Graph_Footer.png" alt="Commit Activity" width="100%" />
-</div>
+### 🛡️ 3. Group Management & Security
+- Advanced Anti-Spam & Anti-Flood systems.
+- Captcha verification for new members.
+- Custom automated warning and ban systems.
 
----
-
-### 🔱 **Phase 3: The 100x Automation Workflow**
-<p align="center"><i>Step-by-step breakdown of how I transform 1 input into 100 results.</i></p>
-
-1.  **[⚡] NEURAL MAPPING:** Strategic planning of the logic gates to ensure zero wastage.
-2.  **[⚡] CORE DEVELOPMENT:** Building the asynchronous engine using Python/Node.js.
-3.  **[⚡] AMPLIFICATION LAYER:** Integrating the multiplier modules that scale operations by 100x.
-4.  **[⚡] SECURITY HARDENING:** Wrapping the system in military-grade encryption.
-5.  **[⚡] AUTONOMOUS DEPLOYMENT:** Setting the system to self-manage and self-heal.
+### 📊 4. Database & API Bots
+- Connecting bots with Google Sheets, MongoDB, or SQL.
+- Real-time crypto/stock market alerts.
+- Web scraping and data extraction bots.
 
 ---
 
-### 🌐 **Phase 4: Social Media Matrix (@opknaim)**
-<p align="center"><i>Connect with the Architect across all encrypted and public channels.</i></p>
-
-<div align="center">
-  <table border="0">
-    <tr>
-      <td align="center"><a href="https://t.me/opknaim"><img src="https://img.shields.io/badge/TELEGRAM-@opknaim-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" /></a></td>
-      <td align="center"><a href="https://linkedin.com/in/opknaim"><img src="https://img.shields.io/badge/LINKEDIN-@opknaim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a></td>
-      <td align="center"><a href="https://github.com/opknaim1"><img src="https://img.shields.io/badge/GITHUB-@opknaim-181717?style=for-the-badge&logo=github&logoColor=white" /></a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://twitter.com/opknaim"><img src="https://img.shields.io/badge/TWITTER-@opknaim-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a></td>
-      <td align="center"><a href="https://facebook.com/opknaim"><img src="https://img.shields.io/badge/FACEBOOK-@opknaim-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a></td>
-      <td align="center"><a href="https://instagram.com/opknaim"><img src="https://img.shields.io/badge/INSTAGRAM-@opknaim-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a></td>
-    </tr>
-    <tr>
-      <td align="center"><a href="https://youtube.com/@opknaim"><img src="https://img.shields.io/badge/YOUTUBE-@opknaim-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a></td>
-      <td align="center"><a href="https://medium.com/@opknaim"><img src="https://img.shields.io/badge/MEDIUM-@opknaim-000000?style=for-the-badge&logo=medium&logoColor=white" /></a></td>
-      <td align="center"><a href="mailto:opknaim@gmail.com"><img src="https://img.shields.io/badge/EMAIL-opknaim@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a></td>
-    </tr>
-  </table>
-</div>
+## 🚀 Tech Stack
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+</p>
 
 ---
 
-### 🛡️ **Phase 5: Engineering Standards & Protocols**
-- **ZERO-LATENCY ARCHITECTURE:** Systems optimized for sub-millisecond response times.
-- **ISLAMIC ETHICS IN TECH:** No haram integrations; absolute honesty in deliverables.
-- **CLEAN CODE SUPREMACY:** Adhering to strict SOLID and DRY principles.
-- **24/7 AUTONOMOUS MONITORING:** Bots that never sleep, systems that never fail.
+## 💎 Why Purchase My Bots?
+| Feature | My Standard | Others |
+| :--- | :--- | :--- |
+| **Uptime** | 99.9% (24/7 Server) | Frequent Crashes |
+| **Security** | Zero Vulnerability | Low Security |
+| **Speed** | Asynchronous (Aiogram 3.x) | Slow Synchronous |
+| **Support** | Lifetime Bug Fixes | No Support |
 
 ---
 
-### 🛠️ **Phase 6: Current Tactical Projects**
+## 📈 My GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=opknaim&show_icons=true&theme=tokyonight" alt="OPK NAIM Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=opknaim&theme=tokyonight" alt="OPK NAIM Streak" />
+</p>
 
-```text
-> [DEPLOYING]  - AI-Driven Telegram Marketing Engine v4.2
-> [OPTIMIZING] - Global Multi-Currency Payment Gateway (100x Speed)
-> [MONITORING] - Secure Enterprise Cloud Infrastructure (Zero-Trust)
-> [DEVELOPING] - 3D Portfolio Dashboard for Elite Clients
+---
+
+## 🤝 Connect with Me
+*Let's build your next big project together!*
+
+<p align="center">
+  <a href="https://t.me/opknaim">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:opknaim@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/opknaim">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/opknaim">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/opknaim">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 💳 Pricing & Orders
+I provide premium services at competitive prices. Contact me for:
+- 📦 **Basic Bots:** Starting from $10
+- 🛠️ **Professional Bots:** Starting from $50
+- 🏢 **Enterprise/Complex Bots:** Contact for Quote
+
+> **Note:** Every bot comes with a detailed manual and 1-month free maintenance.
+
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=footer&text=Created%20by%20OPK%20NAIM&fontSize=40" width="100%">
+</p>
