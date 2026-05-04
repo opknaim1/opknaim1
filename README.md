@@ -1,16 +1,30 @@
-  <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=00d2ff&height=300&section=header&text=OPK%20NAIM&fontSize=90&animation=twinkling&fontAlignY=40&desc=The%20Architect%20of%20Telegram%20Automation&descAlignY=60&descSize=25" width="100%" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117&secondaryColor=001529&height=300&section=header&text=OPK%20NAIM&fontSize=90&fontAlignY=35&desc=THE%20AUTOMATION%20ARCHITECT&descSize=25&descAlignY=60&animation=twinkling&fontAlignX=50&descAlignX=50" width="100%" />
+</div>
 
-  <br/>
+<div align="center">
+  <h3>✨ ✨ ✨ <ins>Presents</ins> ✨ ✨ ✨</h3>
+  <h1>🔱 <u>A U T O M A T I O N  |  H U B</u> 🔱</h1>
+  <p align="center"><i>Real-time Engineering Excellence</i></p>
+</div>
 
-  <p align="center">
-    <img src="https://img.shields.io/badge/Premium-Telegram%20Bots-FFD700?style=for-the-badge&logo=telegram&logoColor=black" />
-    <img src="https://img.shields.io/badge/Expert-Full%20Stack%20Systems-00d2ff?style=for-the-badge&logo=codeproject&logoColor=white" />
-    <img src="https://img.shields.io/badge/Enterprise-Automation-FF4500?style=for-the-badge&logo=githubactions&logoColor=white" />
-  </p>
+<br/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=35&pause=1000&color=00D2FF&center=true&vCenter=true&width=800&lines=Building+Scalable+Bot+Ecosystems;Mastering+Global+API+Integrations;Developing+Secure+Payment+Gateways;Your+Vision,+My+Code." alt="Typing SVG" />
+<div align="center">
+  <a href="#-executive-summary">
+    <img src="https://img.shields.io/badge/Premium-Automation_Bots-FFD700?style=for-the-badge&logo=telegram&logoColor=black&labelColor=000" />
+  </a>
+  <a href="#-executive-summary">
+    <img src="https://img.shields.io/badge/Expert-Full_Stack-00d2ff?style=for-the-badge&logo=codeproject&logoColor=white&labelColor=000" />
+  </a>
+  <a href="#-executive-summary">
+    <img src="https://img.shields.io/badge/Enterprise-Workflows-FF4500?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=000" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/opknaim1">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=38&pause=1000&color=00D2FF&center=true&vCenter=true&width=1000&lines=Building+Scalable+Bot+Ecosystems;Mastering+Global+API+Integrations;Developing+Secure+Payment+Gateways;Your+Vision,+My+Code." alt="Typing SVG" />
   </a>
 </div>
 
@@ -49,53 +63,65 @@
 
 ### 📈 **Performance Analytics (Real-time)**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=opknaim1&show_icons=true&theme=vision-friendly-dark&hide_border=true&title_color=00D2FF&bg_color=0D1117" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=opknaim1&theme=tokyonight&hide_border=true&fire=00D2FF&currStreakLabel=00D2FF" width="49%" />
+  <img src="https://res.cloudinary.com/dt26z13v4/image/upload/v1715012345/3D_Dashboard_Header.png" alt="Analytics Header" width="100%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=opknaim1&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=opknaim1&theme=tokyonight" width="32%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=opknaim1&theme=tokyonight" width="32%" />
-</div>
-
----
-
-### 💼 **Get In Touch (Global Networking)**
-<p align="center">
-  Connect with me for high-ticket project collaborations or technical consultations.
-</p>
-
-<div align="center">
-  <a href="https://t.me/opknaim" target="_blank">
-    <img src="https://img.shields.io/badge/TELEGRAM-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:opknaim@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/opknaim" target="_blank">
-    <img src="https://img.shields.io/badge/FACEBOOK-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/opknaim" target="_blank">
-    <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-</div>
-
----
-
-### 🐍 **The Growth Matrix**
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake" width="100%" />
+  <table border="0" width="100%">
+    <tr>
+      <td width="33%" align="center">
+        <a href="#-executive-summary">
+          <img src="https://github-readme-stats.vercel.app/api?username=opknaim1&show_icons=true&theme=vision-friendly-dark&title_color=00D2FF&icon_color=00D2FF&text_color=BB9AF7&bg_color=0d1117&hide_border=true&rank_icon=github" width="100%" />
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <a href="#-executive-summary">
+          <img src="https://github-readme-streak-stats.herokuapp.com/?user=opknaim1&theme=tokyonight&fire=00D2FF&currStreakNum=BB9AF7&sideNums=C9D1D9&sideLabels=00D2FF&hide_border=true" width="100%" />
+        </a>
+      </td>
+      <td width="33%" align="center">
+        <a href="#-executive-summary">
+          <img src="https://github-readme-stats.vercel.app/api/top-languages/?username=opknaim1&layout=compact&theme=vision-friendly-dark&title_color=00D2FF&icon_color=00D2FF&text_color=BB9AF7&bg_color=0d1117&hide_border=true" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="90%" />
+  <img src="https://res.cloudinary.com/dt26z13v4/image/upload/v1715012345/Advanced_Graph_Footer.png" alt="Commit Graph" width="100%" />
 </div>
 
-<div align="right">
-  <i>Refined by Opk Naim © 2020</i>
+<br/>
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td width="20%" align="center">
+        <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/bADGES/Profile/Github.svg" alt="LinkedIn" width="100%" />
+      </td>
+      <td width="20%" align="center">
+        <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/bADGES/Profile/LinkedIn.svg" alt="LinkedIn" width="100%" />
+      </td>
+      <td width="20%" align="center">
+        <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/bADGES/Profile/StackOverflow.svg" alt="StackOverflow" width="100%" />
+      </td>
+      <td width="20%" align="center">
+        <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/bADGES/Profile/Telegram.svg" alt="Telegram" width="100%" />
+      </td>
+      <td width="20%" align="center">
+        <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/bADGES/Profile/Medium.svg" alt="Medium" width="100%" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00D2FF&secondaryColor=BB9AF7&height=120&section=footer" width="100%" />
 </div>
