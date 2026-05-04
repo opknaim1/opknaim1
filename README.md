@@ -1,106 +1,172 @@
-# 🌌 Welcome to the Universe of OPK NAIM 🌌
-### 🚀 Professional Telegram Bot Designer & Senior Builder
+# 🚀 OPK Naim | Professional Telegram Bot Designer & Builder
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/m-p-3/m-p-3/main/assets/line_sc.gif" width="100%">
-</p>
+Welcome to my official portfolio repository.
 
----
-
-## 💫 About Me
-I am **OPK NAIM**, a passionate developer specializing in creating high-performance, scalable, and intelligent **Telegram Bots**. I don't just write code; I build automated ecosystems that help businesses grow and communities thrive. With a focus on **User Experience (UX)** and **3D-grade logic**, I ensure my bots are both powerful and beautiful.
-
-- ⚡ **Speed:** Lightning-fast response times.
-- 🛡️ **Security:** Military-grade encryption and data safety.
-- 🎨 **Design:** Minimalist yet futuristic UI/UX for bots.
+I am **OPK Naim**, a professional Telegram board designer and bot builder specializing in advanced automation systems, subscription bots, crypto payment bots, and fully customized Telegram solutions.
 
 ---
 
-## 🛠️ Specialized Services (What I Offer)
-*Transforming your ideas into automated reality.*
+## 🌟 About Me
 
-### 🤖 1. Custom AI Integration
-- ChatGPT/GPT-4o integration for smart conversations.
-- Image generation and voice-to-text bots.
+I design and develop premium-quality Telegram bots that are:
 
-### 💰 2. E-Commerce & Payment Bots
-- Fully automated digital shops.
-- Integration with **Crypto, bKash, Rocket, Nagad, and PayPal**.
-- Automatic product delivery after payment.
+- ✅ Secure
+- ✅ Scalable
+- ✅ Automated
+- ✅ Business Ready
+- ✅ User Friendly
+- ✅ Professionally Designed
 
-### 🛡️ 3. Group Management & Security
-- Advanced Anti-Spam & Anti-Flood systems.
-- Captcha verification for new members.
-- Custom automated warning and ban systems.
-
-### 📊 4. Database & API Bots
-- Connecting bots with Google Sheets, MongoDB, or SQL.
-- Real-time crypto/stock market alerts.
-- Web scraping and data extraction bots.
+My goal is to help businesses, creators, and communities grow using powerful Telegram automation tools.
 
 ---
 
-## 🚀 Tech Stack
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-</p>
+## 💼 Services I Offer
+
+### 🔹 Custom Telegram Bot Development
+Fully customized Telegram bots tailored to your specific business or community needs.
+
+### 🔹 Telegram Board Design
+Modern, clean, and professional Telegram boards with smooth UI and premium design.
+
+### 🔹 Automation Systems
+- Auto reply systems  
+- Scheduled posting  
+- Smart moderation  
+- Auto broadcast  
+- Membership management  
+
+### 🔹 Subscription & Membership Bots
+- Paid subscription system  
+- Auto user verification  
+- Expiry system  
+- Auto removal on expiration  
+
+### 🔹 Payment Integration
+- Crypto Payments  
+- Stripe Integration  
+- PayPal Integration  
+- Manual & Auto Payment Verification  
+
+### 🔹 Admin Panel System
+- Advanced admin controls  
+- User management  
+- Broadcast panel  
+- Analytics system  
 
 ---
 
-## 💎 Why Purchase My Bots?
-| Feature | My Standard | Others |
-| :--- | :--- | :--- |
-| **Uptime** | 99.9% (24/7 Server) | Frequent Crashes |
-| **Security** | Zero Vulnerability | Low Security |
-| **Speed** | Asynchronous (Aiogram 3.x) | Slow Synchronous |
-| **Support** | Lifetime Bug Fixes | No Support |
+## 🛒 Premium Bots For Sale
+
+### 1️⃣ Subscription Bot
+Automated subscription management system with payment confirmation and user tracking.
+
+**Features:**
+- Auto approval
+- Expiry tracking
+- Renewal reminder
+- Admin dashboard
+
+💰 Price: $50 - $150
 
 ---
 
-## 📈 My GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=opknaim&show_icons=true&theme=tokyonight" alt="OPK NAIM Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=opknaim&theme=tokyonight" alt="OPK NAIM Streak" />
-</p>
+### 2️⃣ Auto Broadcast Bot
+Send unlimited broadcast messages with advanced filtering system.
+
+**Features:**
+- Targeted broadcasting
+- Media support
+- Scheduled messages
+- Performance tracking
+
+💰 Price: $40 - $120
 
 ---
 
-## 🤝 Connect with Me
-*Let's build your next big project together!*
+### 3️⃣ Crypto Payment Bot
+Accept cryptocurrency payments automatically.
 
-<p align="center">
-  <a href="https://t.me/opknaim">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:opknaim@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/opknaim">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/opknaim">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/opknaim">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-</p>
+**Features:**
+- Auto wallet verification
+- Transaction confirmation
+- Invoice system
+- Admin control
+
+💰 Price: $80 - $200
 
 ---
 
-## 💳 Pricing & Orders
-I provide premium services at competitive prices. Contact me for:
-- 📦 **Basic Bots:** Starting from $10
-- 🛠️ **Professional Bots:** Starting from $50
-- 🏢 **Enterprise/Complex Bots:** Contact for Quote
+### 4️⃣ Custom Business Bot
+Fully customized Telegram bot based on your business requirements.
 
-> **Note:** Every bot comes with a detailed manual and 1-month free maintenance.
+💰 Price: Contact for details
 
 ---
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=footer&text=Created%20by%20OPK%20NAIM&fontSize=40" width="100%">
-</p>
+
+## 🎨 Why Choose Me?
+
+- ✅ Professional Design
+- ✅ Clean & Secure Code
+- ✅ Fast Delivery
+- ✅ 24/7 Support
+- ✅ Scalable Architecture
+- ✅ Business-Oriented Solutions
+
+I focus on long-term client relationships and high-quality service.
+
+---
+
+## 🌐 Connect With Me
+
+All Social Media: **@opknaim**
+
+- Telegram: https://t.me/opknaim  
+- Facebook: https://facebook.com/opknaim  
+- Instagram: https://instagram.com/opknaim  
+- Twitter/X: https://twitter.com/opknaim  
+- YouTube: https://youtube.com/@opknaim  
+
+📧 Email: **opknaim@gmail.com**
+
+---
+
+## 📌 Available For
+
+- Freelance Projects  
+- Long-Term Collaboration  
+- Business Automation Setup  
+- Telegram Channel Monetization Systems  
+- Premium Bot Development  
+
+---
+
+## 🔐 Technologies I Use
+
+- Python (Aiogram / Pyrogram)
+- Node.js
+- MongoDB / MySQL
+- REST API Integration
+- Webhook Deployment
+- VPS & Cloud Hosting
+- Payment Gateway APIs
+
+---
+
+## 🧠 Vision
+
+To become one of the most trusted Telegram bot developers worldwide by delivering powerful, secure, and scalable automation solutions.
+
+---
+
+## ⚡ Let’s Build Something Powerful
+
+If you are looking for a professional Telegram bot designer and builder, feel free to contact me anytime.
+
+📩 Telegram: @opknaim  
+📧 Email: opknaim@gmail.com  
+
+---
+
+© 2026 OPK Naim | Professional Telegram Bot Designer & Builder  
+All Rights Reserved.
