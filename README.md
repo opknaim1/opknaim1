@@ -1,86 +1,88 @@
-<!-- HEADER START -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=00f2fe&height=300&section=header&text=OPK%20NAIM&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Architecting%20the%20Future%20of%20Telegram%20Automation&descAlignY=55&descFontSize=20" width="100%" />
-</p>
+<!-- HEADER SECTION -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:000000,50:00f2fe,100:7000ff&text=OPK%20NAIM&fontSize=90&animation=fadeIn&fontAlignY=38&desc=PREMIUM%20TELEGRAM%20BOT%20ARCHITECT&descAlignY=55&descSize=20&fontColor=ffffff" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=00F2FE&center=true&vCenter=true&width=1000&lines=ELITE+BOT+DEVELOPER;3D+INTERFACE+DESIGNER;AI+AUTOMATION+SPECIALIST;FINTECH+GATEWAY+EXPERT" alt="Typing SVG" />
+</div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=35&pause=1000&color=00F2FE&center=true&vCenter=true&width=1000&lines=ELITE+TELEGRAM+BOT+DESIGNER;FULL-STACK+AUTOMATION+ENGINEER;AI+INTEGRATION+SPECIALIST;UI/UX+INTERFACE+ARCHITECT" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%">
 </p>
 
-<!-- INTRO SECTION -->
+<!-- IDENTITY & BIO -->
 <div align="center">
 
-### 🌌 SYSTEM INITIALIZED: WELCOME TO MY DIGITAL REALM
+### 🌌 SYSTEM INITIALIZED: WELCOME TO MY DIGITAL CORE
 **I am @opknaim, a Senior Telegram Bot Developer specializing in building high-performance, scalable, and sophisticated automated ecosystems.** 
-*Merging cutting-edge logic with futuristic design to deliver the ultimate user experience.*
+*Merging cutting-edge logic with futuristic 3D design to deliver the ultimate user experience.*
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=opknaim&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" alt="Main Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opknaim&layout=compact&theme=tokyonight&hide_border=false" alt="Top Langs" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=opknaim&show_icons=true&theme=tokyonight&hide_border=false&count_private=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=opknaim&layout=compact&theme=tokyonight&hide_border=false" height="180" />
 
 </div>
 
 ---
 
-### 🛠️ CORE CAPABILITIES & TECH STACK
+### 🛠️ ARCHITECT'S ARSENAL (TECH STACK)
 > **"Turning complex manual workflows into 100% autonomous Telegram-based powerhouses."**
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,nodejs,mongodb,redis,postgres,docker,linux,github,git,vscode,fastapi,mysql&perline=6" />
+</div>
 
 ---
 
 ### 🤖 BOT SOLUTIONS MARKETPLACE
 **Available for high-end custom development and ready-made professional bot licenses.**
 
-| 🏗️ SERVICES | 💎 FEATURES | 🚀 PERFORMANCE |
+| 🏗️ SERVICES | 💎 ELITE FEATURES | 🚀 PERFORMANCE |
 | :--- | :--- | :--- |
-| **AI Neural Bots** | GPT-4 Integration, Image Generation, Voice Recognition | Sub-1s Response |
-| **Payment Ecosystems** | Crypto, Stripe, bKash, PayPal Auto-Checkout | Military Grade |
-| **Admin & Security** | Anti-Raid, Global Ban, Captcha, Auto-Mod | 99.9% Uptime |
-| **Web3 & Crypto** | Token Trackers, DEX Swaps, Wallet Monitoring | Real-time Data |
+| **Subscription Systems** | Auto-Approval, Expiry Alerts, Pay-to-Join | 99.9% Uptime |
+| **Crypto/Payment Bots** | Wallet Verification, bKash/Nagad/Binance | Military Grade |
+| **Admin Control Units** | Advanced Statistics, Broadcast, Global Ban | Sub-1s Response |
+| **AI Integration** | GPT-4o, DALL-E 3, Image-to-Text Logic | Neural Logic |
 
 ---
 
 ### 💎 PRICING TIERS & LICENSING
 **Invest in quality. Your business automation deserves the best architecture.**
 
-#### 🔹 [LEVEL 1] - BASIC PROTOCOL ($20+)
+#### 🔹 [LEVEL 1] - ALPHA PROTOCOL ($20 - $50)
 - Single Purpose Bot (Auto-response, Admin helper).
-- Standard Database storage.
-- 7-Day Technical Support.
+- Standard Database storage (SQLite/JSON).
+- 7-Day Technical Support & Bug Fixes.
 
-#### 🔹 [LEVEL 2] - PROFESSIONAL ARCHIVE ($70+)
-- Advanced Multi-purpose Bot.
-- API Integrations & Webhooks.
-- Custom Branding & Dynamic UI.
+#### 🔹 [LEVEL 2] - SIGMA ARCHIVE ($60 - $150)
+- Advanced Multi-purpose Bot with Admin Panel.
+- API Integrations (Payments/Webhooks).
+- Custom Branding & Dynamic 3D-Style UI.
 - 1-Month Premium Maintenance.
 
-#### 🔹 [LEVEL 3] - ENTERPRISE OMEGA ($150+)
-- High-Frequency Trading/Large Scale Shop Bots.
+#### 🔹 [LEVEL 3] - OMEGA ENTERPRISE ($200+)
+- High-Frequency Trading or Large Scale Digital Shops.
 - Full Encryption & Distributed Server Architecture.
-- Dedicated Dashboard & API Access.
-- Lifetime Support & Priority Updates.
+- Dedicated Web Dashboard & API Access.
+- Lifetime Support & Priority Security Updates.
 
 ---
 
-### 📊 SYSTEM ACTIVITY (24H NEURAL LOGS)
+### 📊 NEURAL ACTIVITY LOGS (LIVE STATS)
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=opknaim&theme=tokyonight&hide_border=false" width="100%" alt="Activity Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=opknaim&theme=tokyo-night&area=true&hide_border=false" width="100%" />
 </p>
 
 ---
 
 ### 📡 ESTABLISH SECURE CONNECTION
-**Status: Available for Commissions**  
+**Status: ✅ ACTIVE & ACCEPTING PROJECTS**  
 *Click the nodes below to initiate a private handshake.*
 
 <div align="center">
@@ -89,41 +91,45 @@
 | :--- | :--- | :--- |
 | **Telegram** | `@opknaim` | [SEND MESSAGE](https://t.me/opknaim) |
 | **Email** | `opknaim@gmail.com` | [OPEN MAIL](mailto:opknaim@gmail.com) |
-| **Portfolio** | `OPK NAIM Dev` | [EXPLORE PROJECTS](https://github.com/opknaim) |
+| **Socials** | `@opknaim` | [FOLLOW ALL](https://linktr.ee/opknaim) |
 
 <br>
 
+<a href="https://t.me/opknaim">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="mailto:opknaim@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 <a href="https://facebook.com/opknaim">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 <a href="https://instagram.com/opknaim">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-<a href="https://linkedin.com/in/opknaim">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 <a href="https://twitter.com/opknaim">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://github.com/opknaim">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-### ⚙️ UNDER THE HOOD
+### ⚙️ UNDER THE HOOD (SYSTEM LOGIC)
 ```python
 class TelegramBotArchitect:
-    def __init__(self, name):
+    def __init__(self):
         self.name = "OPK NAIM"
-        self.specialty = "High-Performance Automation"
-        self.status = "Coding the Future"
+        self.role = "Senior Designer & Builder"
+        self.specialty = "3D Animated Bot Interfaces"
+        self.status = "BUILDING_THE_FUTURE"
 
-    def build_project(self, complexity):
-        if complexity == "Extreme":
-            return "Delivering perfection..."
-        else:
-            return "Exceeding expectations..."
+    def contact_protocol(self):
+        return "Initiating secure handshake... Find me at @opknaim"
 
-# Current Operation
-opknaim = TelegramBotArchitect("OPK NAIM")
-print(opknaim.build_project("Extreme"))
+# Execution
+NaIm = TelegramBotArchitect()
+print(NaIm.contact_protocol())
